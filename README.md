@@ -1,2 +1,4 @@
 # Pompoc
-c# Quick POM Selenium 
+
+Very quick sample POM (Selenium) for C#
+
